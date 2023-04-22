@@ -7,7 +7,7 @@
   },
   "services": [
     "Coding & Development",
-    "Consolting",
+    "Consulting",
     "Training"
   ],
   "projects": [
