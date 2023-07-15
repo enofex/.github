@@ -15,7 +15,7 @@
     {
       "name": "Naikan",
       "url": "https://naikan.io",
-      "contributeUrl": "https://github.com/enofex/naikan-projects",
+      "contributeUrl": "https://github.com/enofex/naikan",
       "description": "Naikan is a software inventory management tool driven by our CI/CD pipeline."
     }
   ]
