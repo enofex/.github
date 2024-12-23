@@ -15,12 +15,13 @@
   "projects": [
     {
       "name": "Naikan",
-      "url": "https://enofex.github.io/naikan/",
+      "url": "https://enofex.github.io/naikan",
       "contributeUrl": "https://github.com/enofex/naikan",
       "description": "Naikan is a software inventory management tool for dev teams driven by our CI/CD pipeline."
     },
     {
       "name": "Taikai",
+      "url": "https://enofex.github.io/taikai",
       "contributeUrl": "https://github.com/enofex/taikai",
       "description": "Taikai is a powerful extension of the popular ArchUnit library, offering a comprehensive suite of predefined rules tailored for various technologies."
     }
