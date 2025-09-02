@@ -14,12 +14,6 @@
   ],
   "projects": [
     {
-      "name": "Naikan",
-      "url": "https://enofex.github.io/naikan",
-      "contributeUrl": "https://github.com/enofex/naikan",
-      "description": "Naikan is a software inventory management tool for dev teams driven by our CI/CD pipeline."
-    },
-    {
       "name": "Taikai",
       "url": "https://enofex.github.io/taikai",
       "contributeUrl": "https://github.com/enofex/taikai",
