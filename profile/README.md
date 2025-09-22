@@ -12,6 +12,13 @@
     "Consulting",
     "Training"
   ],
+  "trainings": [
+    {
+      "name": "Software Craftsmanship and Clean Code",
+      "url": "https://github.com/mnhock/swcs",      
+      "description": "The course aims to deepen students knowledge and practical skills in software quality, and familiarize them with tools and procedures used in industry."
+    }
+  ],
   "projects": [
     {
       "name": "Taikai",
