@@ -25,6 +25,12 @@
       "url": "https://enofex.github.io/taikai",
       "contributeUrl": "https://github.com/enofex/taikai",
       "description": "Taikai is a powerful extension of the popular ArchUnit library, offering a comprehensive suite of predefined rules tailored for various technologies."
+    },
+    {
+      "name": "Naikai",
+      "url": "https://enofex.github.io/naikai",
+      "contributeUrl": "https://github.com/enofex/naikai",
+      "description": "Naikan is an open source software inventory management tool for dev teams driven by our CI/CD pipeline."
     }
   ],
   "books": [
