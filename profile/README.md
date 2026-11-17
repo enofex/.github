@@ -21,11 +21,6 @@
   ],
   "projects": [
     {
-      "name": "Tenkaid",
-      "url": "https://tenkaid.com",
-      "description": "Tenkaid is an AI-assisted maturity assessment tool to analyze organizational capabilities, track insights, and drive continuous improvement across teams."
-    },
-    {
       "name": "Taikai",
       "url": "https://enofex.github.io/taikai",
       "contributeUrl": "https://github.com/enofex/taikai",
