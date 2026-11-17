@@ -1,24 +1,5 @@
-![](https://img.shields.io/badge/Welcome%20to-Enofex-blue)
-[![Website](https://img.shields.io/badge/https://-enofex.com-blue.svg)](https://enofex.com/)
 ```
  {
-  "organization": {
-    "name": "Enofex",
-    "url": "https://enofex.com",
-    "description": "The web technology experts, which 💙 #opensource!"
-  },
-  "services": [
-    "Coding & Development",
-    "Consulting",
-    "Training"
-  ],
-  "trainings": [
-    {
-      "name": "Software Craftsmanship and Clean Code",
-      "url": "https://github.com/mnhock/swcs",      
-      "description": "The course aims to deepen students knowledge and practical skills in software quality, and familiarize them with tools and procedures used in industry."
-    }
-  ],
   "projects": [
     {
       "name": "Taikai",
